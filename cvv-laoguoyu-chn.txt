@@ -10,6 +10,17 @@ u
 v
 yv
 ee
+_ah
+_oh
+_ooh
+_ih
+_iih
+_uh
+_uuh
+_vh
+_vvh
+_eeh
+_aeh
 ai
 _ai
 ae
@@ -937,4 +948,5 @@ c
 s
 y
 w
+
 vv
