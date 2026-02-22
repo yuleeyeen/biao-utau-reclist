@@ -1,0 +1,8 @@
+name: 
+image: 
+singer_type: utau
+text_file_encoding: gb2312
+portrait: 
+portrait_opacity: 0.68
+portrait_height: 0
+author: yuleeyeen 
