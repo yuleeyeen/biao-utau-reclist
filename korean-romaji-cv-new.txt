@@ -1,0 +1,208 @@
+(_‘a_eo_...’_is_short_vowel_._‘0_1_...’_is_long_vowel_.__may_be_some_errors_.)
+(v)
+a ae eo oe o u eu i e nn mm ng ll
+0 10 1 12 2 3 4 5 6 7 8 9 11
+ia iae ieo ioe io iu ie
+ua uae ueo uoe uo ui ue eui
+(vc)
+_ap _aep _eop _oep _op _up _eup _ip _ep
+_at aet _eot _oet _ot _ut _eut _it _et
+_ak _aek _eok _oek _ok _uk _euk _ik _ek
+(vv_vc)
+_ia _iae _ieo _ioe _io _iu _ie
+_ua _uae _ueo _uoe _uo _ui _ue _eui
+_an _aen _eon _oen _on _un _eun _in _en
+_am _aem _eom _oem _om _um _eum _im _em
+_ang _aeng _eong _oeng _ong _ung _eung _ing _eng
+_al _ael _eol _oel _ol _ul _eul _il _el
+(cv)
+ga gae geo goe go gu geu gi ge
+ka kae keo koe ko keu ku ki ke
+da dae deo doe do du deu di de
+ta tae teo toe to tu teu ti te
+ra rae reo roe ro ru reu ri re
+ba bae beo boe bo bu beu bi be
+pa pae peo poe po pu peu pi pe
+za zae zeo zoe zo zu zeu zi ze
+sa sae seo soe so su seu si se
+ja jae jeo joe jo ju jeu ji je
+ca cae ceo coe co cu ceu ci ce
+ha hae heo hoe ho hu heu hi he
+na nae neo noe no nu neu ni ne
+ma mae meo moe mo mu meu mi me
+ya yae yeo yoe yo yu yeu yi ye
+wa wae weo woe wo wu weu wi we
+bba bbae bbeo bboe bbo bbu bbeu bbi bbe
+dda ddae ddeo ddoe ddo ddu ddeu ddi dde
+ssa ssae sseo ssoe sso ssu sseu ssi sse
+jja jjae jjeo jjoe jjo jju jjeu jji jje
+gga ggae ggeo ggoe ggo ggu ggeu ggi gge
+pha phae pheo phoe pho phu pheu phi phe
+tha thae theo thoe tho thu theu thi the
+kha khae kheo khoe kho khu kheu khi khe
+sha shae sheo shoe sho shu sheu shi she
+cha chae cheo choe cho chu cheu chi che
+(cyv)
+gya gyae gyeo gyoe gyo gyu gye
+kya kyae kyeo kyoe kyo kyu kye
+dya dyae dyeo dyoe dyo dyu dye
+tya tyae tyeo tyoe tyo tyu tye
+rya ryae ryeo ryoe ryo ryu rye
+bya byae byeo byoe byo byu bye
+pya pyae pyeo pyoe pyo pyu pye
+zya zyae zyeo zyoe zyo zyu zye
+sya syae syeo syoe syo syu sye
+jya jyae jyeo jyoe jyo jyu jye
+cya cyae cyeo cyoe cyo cyu cye
+hya hyae hyeo hyoe hyo hyu hye
+nya nyae nyeo nyoe nyo nyu nye
+mya myae myeo myoe myo myu mye
+bbya bbyae bbyeo bbyoe bbyo bbyu bbye
+ddya ddyae ddyeo ddyoe ddyo ddyu ddye
+ssya ssyae ssyeo ssyoe ssyo ssyu ssye
+jjya jjyae jjyeo jjyoe jjyo jjyu jjye
+ggya ggyae ggyeo ggyoe ggyo ggyu ggye
+phya phyae phyeo phyoe phyo phyu phye
+thya thyae thyeo thyoe thyo thyu thye
+khya khyae khyeo khyoe khyo khyu khye
+shya shyae shyeo shyoe shyo shyu shye
+chya chyae chyeo chyoe chyo chyu chye
+(cwv)
+gwa gwae gweo gwoe gwo gwi gwe
+kwa kwae kweo kwoe kwo kwi kwe
+dwa dwae dweo dwoe dwo dwi dwe
+twa twae tweo twoe two twi twe
+rwa rwae rweo rwoe rwo rwi rwe
+bwa bwae bweo bwoe bwo bwi bwe
+pwa pwae pweo pwoe pwo pwi pwe
+zwa zwae zweo zwoe zwo zwi zwe
+swa swae sweo swoe swo swi swe
+jwa jwae jweo jwoe jwo jwi jwe
+cwa cwae cweo cwoe cwo cwi cwe
+hwa hwae hweo hwoe hwo hwi hwe
+nwa nwae nweo nwoe nwo nwi nwe
+mwa mwae mweo mwoe mwo mwi mwe
+bbwa bbwae bbweo bbwoe bbwo bbwi bbwe
+ddwa ddwae ddweo ddwoe ddwo ddwi ddwe
+sswa sswae ssweo sswoe sswo sswi sswe
+jjwa jjwae jjweo jjwoe jjwo jjwi jjwe
+ggwa ggwae ggweo ggwoe ggwo ggwi ggwe
+phwa phwae phweo phwoe phwo phwi phwe
+thwa thwae thweo thwoe thwo thwi thwe
+khwa khwae khweo khwoe khwo khwi khwe
+shwa shwae shweo shwoe shwo shwi shwe
+chwa chwae chweo chwoe chwo chwi chwe
+(cvn-cvm-cvng)
+(n)
+gan gaen geon goen gon gun geun gin gen
+kan kaen keon koen kon keun kun kin ken
+dan daen deon doen don dun deun din den
+tan taen teon toen ton tun teun tin ten
+ran raen reon roen ron run reun rin ren
+ban baen beon boen bon bun beun bin ben
+pan paen peon poen pon pun peun pin pen
+zan zaen zeon zoen zon zun zeun zin zen
+san saen seon soen son sun seun sin sen
+jan jaen jeon joen jon jun jeun jin jen
+can caen ceon coen con cun ceun cin cen
+han haen heon hoen hon hun heun hin hen
+nan naen neon noen non nun neun nin nen
+man maen meon moen mon mun meun min men
+yan yaen yeon yoen yon yun yeun yin yen
+wan waen weon woen won wun weun win wen
+bban bbaen bbeon bboen bbon bbun bbeun bbin bben
+ddan ddaen ddeon ddoen ddon ddun ddeun ddin dden
+ssan ssaen sseon ssoen sson ssun sseun ssin ssen
+jjan jjaen jjeon jjoen jjon jjun jjeun jjin jjen
+ggan ggaen ggeon ggoen ggon ggun ggeun ggin ggen
+phan phaen pheon phoen phon phun pheun phin phen
+than thaen theon thoen thon thun theub thib then
+khan khaen kheon khoen khon khun kheun khin khen
+shan shaen sheon shoen shon shun sheun shin shen
+chan chaen cheon choen chon chun cheun chin chen
+(m)
+gam gaem geom goem gom gum geum gim gem
+kam kaem keom koem kom keum kum kim kem
+dam daem deom doem dom dum deum dim dek
+tam taem teom toem tom tum teum tim tem
+ram raem reom roem rom rum reum rim rem
+bam baem beom boem bom bum beum bim bem
+pam paem peom poem pom pum peum pim pem
+zam zaem zeom zoem zom zum zeum zim zem
+sam saem seom soem som sum seum sim sem
+jam jaem jeom joem jom jum jeum jim jem
+cam caem ceom coem com cum ceum cim cem
+ham haem heom hoem hom hum heum him hem
+nam naem neom noem nom num neum nim nem
+mam maem meom moem mom mum meum mim mem
+yam yaem yeom yoem yom yum yeum yim yem
+wam waem weom woem wom wum weum wim wem
+bbam bbaem bbeom bboem bbom bbum bbeum bbim bbem
+ddam ddaem ddeom ddoem ddom ddum ddeum ddim ddem
+ssam ssaem sseom ssoem ssom ssum sseum ssim ssem
+jjam jjaem jjeom jjoem jjom jjum jjeum jjim jjem
+ggam ggaem ggeom ggoem ggom ggum ggeum ggim ggem
+pham phaem pheom phoem phom phum pheum phim phem
+tham thaem theom thoem thom thum theum thim them
+kham khaem kheom khoem khom khum kheum khim khem
+sham shaem sheom shoem shom shum sheum shim shem
+cham chaem cheom choem chom chum cheum chim chem
+(ng)
+gang gaeng geong goeng gong gung geung ging geng
+kang kaeng keong koeng kong keung kung king keng
+dang daeng deong doeng dong dung deung ding deng
+tang taeng teong toeng tong tung teung ting teng
+rang raeng reong roeng rong rung reung ring reng
+bang baeng beong boeng bong bung beung bing beng
+pang paeng peong poeng pong pung peung ping peng
+zang zaeng zeong zoeng zong zung zeung zing zeng
+sang saeng seong soeng song sung seung sing seng
+jang jaeng jeong joeng jong jung jeung jing jeng
+cang caeng ceong coeng cong cung ceung cing ceng
+hang haeng heong hoeng hong hung heung hing heng
+nang naeng neong noeng nong nung neung ning neng
+mang maeng meong moeng mong mung meung ming meng
+yang yaeng yeong yoeng yong yung yeung ying yeng
+wang waeng weong woeng wong wung weung wing weng
+bbang bbaeng bbeong bboeng bbong bbung bbeung bbing bbeng
+ddang ddaeng ddeong ddoeng ddong ddung ddeung dding ddeng
+ssang ssaeng sseong ssoeng ssong ssung sseung ssing sseng
+jjang jjaeng jjeong jjoeng jjong jjung jjeung jjing jjeng
+ggang ggaeng ggeong ggoeng ggong ggung ggeung gging ggeng
+phang phaeng pheong phoeng phong phung pheung phing pheng
+thang thaeng theong thoeng thong thung theung thingg theng
+khang khaeng kheong khoeng khong khung kheung khing kheng
+shang shaeng sheong shoeng shong shung sheung shing sheng
+chang chaeng cheong choeng chong chung cheung ching cheng
+
+(next_here_can_make_or_don’_make_._for_you_think_.)
+(cv-)
+g0 k0 d0 t0 r0 b0 p0 z0 s0 j0 c0 h0 n0 m0 y0 w0
+bb0 dd0 ss0 jj0 gg0 kh0 th0 ph0 sh0 ch0
+g10 k10 d10 t10 r10 b10 p10 z10 s10 j10 c10 h10 n10 m10 y10 w10
+bb10 dd10 ss10 jj10 gg10 kh10 th10 ph10 sh10 ch10
+g1 k1 d1 t1 r1 b1 p1 z1 s1 j1 c1 h1 n1 m1 y1 w1
+bb1 dd1 ss1 jj1 gg1 kh1 th1 ph1 sh1 ch1
+g12 k12 d12 t12 r12 b12 p12 z12 s12 j12 c12 h12 n12 m12 y12 w12
+bb12 dd12 ss12 jj12 gg12 kh12 th12 ph12 sh12 ch12
+g2 k2 d2 t2 r2 b2 p2 z2 s2 j2 c2 h2 n2 m2 y2 w2
+bb2 dd2 ss2 jj2 gg2 kh2 th2 ph2 sh2 ch2
+g3 k3 d3 t3 r3 b3 p3 z3 s3 j3 c3 h3 n3 m3 y3 w3
+bb3 dd3 ss3 jj3 gg3 kh3 th3 ph3 sh3 ch3
+g4 k4 d4 t4 r4 b4 p4 z4 s4 j4 c4 h4 n4 m4 y4 w4
+bb4 dd4 ss4 jj4 gg4 kh4 th4 ph4 sh4 ch4
+g5 k5 d5 t5 r5 b5 p5 z5 s5 j5 c5 h5 n5 m5 y5 w5
+bb5 dd5 ss5 jj5 gg5 kh5 th5 ph5 sh5 ch5
+g6 k6 d6 t6 r6 b6 p6 z6 s6 j6 c6 h6 n6 m6 y6 w6
+bb6 dd6 ss6 jj6 gg6 kh6 th6 ph6 sh6 ch6
+(c)
+g k d t r b p z s j c h n m y w
+bb dd ss jj gg kh th ph sh ch
+gy ky dy ty ry by py zy sy jy cy hy ny my
+bby ddy ssy jjy ggy khy thy phy shy chy
+gw kw dw tw rw bw pw zw sw jw cw hw nw mw
+bbw ddw ssw jjw ggw khw thw phw shw chw
+(ceui_as_cui)
+gui kui dui tui rui bui pui zui sui jui cui hui nui mui
+bbui ddui ssui jjui ggui khui thui phui shui chui
+(if_have_v-y/w/eu-v-n/c/v-n/c_[foe_example_:_bwit],__you_can_try_to_make_it.)
