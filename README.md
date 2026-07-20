@@ -1,6 +1,6 @@
 # biao-utau-reclist
 
-##It has some problem, and I don't  have  full times to work  finish it in github, but I pick it in bowlroll, you can get to https://bowlroll.net/user/1012243 to find it, it name "all-reclist-yuleeyeen".
+## It has some problem, and I don't  have  full times to work  finish it in github, but I pick it in bowlroll, you can get to https://bowlroll.net/user/1012243 to find it, it name "all-reclist-yuleeyeen".
 
 /1/some-utau-reclist
 
