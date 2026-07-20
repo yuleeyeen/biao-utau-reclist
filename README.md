@@ -42,6 +42,12 @@ ___
 
 ---yuleeyeen/yuleeyeenP
 
-___To communicate, please contact me on bilibili_(yuleeyeenP) or Xiaohongshu_(search for yuleeyeen), 
+___If you have some problem, you can call back me on bilibili(yuleeyeenP) or Xiaohongshu(search for yuleeyeen), 
 
-or send a message to  wangyi-email_18316001770@163.com
+but I wish that you  send a message to  
+
+## 18316001770@163.com
+
+or
+
+## yuleeyeen@qq.com
